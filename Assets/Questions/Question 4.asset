@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What language consits only of 1's and 0's?
+  answers:
+  - Python
+  - Binary
+  - HTML
+  - SQL
+  correctAnswerIndex: 1
